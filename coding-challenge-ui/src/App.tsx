@@ -10,6 +10,7 @@ const AppWrapper = styled.div`
   height: 100vh;
   width: 100vw;
   min-width: 1000px;
+  min-height: 600px;
   background-color: #cccccc;
   display: flex;
   flex-direction: column;
